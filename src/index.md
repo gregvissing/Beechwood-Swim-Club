@@ -1,12 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Welcome to the 2021 Swim Season!
+metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
+  own blog or personal website.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Beechwood Swim Club is a private swim club located in the heart of Fort Mitchell, KY. With the convenient location and the expansive landscape, Beechwood provides a family-friendly atmosphere. We have one of the largest pools in the area with diving boards, a children's pool, and dedicated lap lanes.
