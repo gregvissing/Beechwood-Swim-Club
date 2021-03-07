@@ -65,6 +65,7 @@ class ThemeToggle extends HTMLElement {
   }
 
   render() {
+    /*
     this.innerHTML = html`
       <div class="[ theme-toggle ] [ md:ta-right gap-top-500 ]">
         <div role="status" class="[ visually-hidden ][ js-mode-status ]"></div>
@@ -75,6 +76,7 @@ class ThemeToggle extends HTMLElement {
     `;
 
     this.afterRender();
+    */
   }
 
   afterRender() {
